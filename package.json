@@ -1,12 +1,9 @@
 {
   "name": "random-animals-image",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Get a random image of some animals",
   "main": "index.js",
   "typings": "./index.d.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": {
     "name": "Tanukii",
     "discord": "Tanukii#7115"
