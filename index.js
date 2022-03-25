@@ -1,15 +1,15 @@
 const fetch = require('node-fetch');
 
 module.exports.cat = async function(){
-    const response = await fetch('https://aws.random.cat/meow')
+    const response = await fetch('https://some-random-api.ml/img/cat')
     var json = await response.json()
-    return json.file
+    return json.link
 }
 
 module.exports.dog = async function(){
-    const response = await fetch('https://random.dog/woof.json')
+    const response = await fetch('https://some-random-api.ml/img/dog')
     var json = await response.json()
-    return json.url
+    return json.link
 }
 
 module.exports.panda = async function(){
