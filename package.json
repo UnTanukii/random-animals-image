@@ -1,6 +1,6 @@
 {
   "name": "random-animals-image",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Get a random image of some animals",
   "main": "index.js",
   "typings": "./index.d.ts",
