@@ -13,7 +13,7 @@
     - [Kangaroo](#kangaroo)
 - [Examples](https://github.com/UnTanukii/random-animals-image/tree/main/examples)
 
-You can use this module for your discord bot (with discord.js)
+You can use this module for your discord bot (with discord.js) and get a beautiful animal image ! If you need help about the module you can send me a message on discord : **Tanukii#7115**
 
 # Installation
 
