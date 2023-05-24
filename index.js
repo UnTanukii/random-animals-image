@@ -1,7 +1,7 @@
 const fetch = require('node-fetch');
 
 async function GetAnimal(name){
-    const response = await fetch('https://some-random-api.ml/img/' + name)
+    const response = await fetch('https://some-random-api.com/img/' + name)
     var json = await response.json()
     return json.link
 }
